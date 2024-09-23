@@ -1,0 +1,72 @@
+# Compiled binary and executable files
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.jar
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code specific files
+.vscode/
+.history/
+*.code-workspace
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# .NET directories
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+out/
+gen/
+
+# Visual Studio directories
+.vs/
+.idea/
+.resharper/
+*_ReSharper*/
+*.DotSettings.user
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotNetNuke specific files
+UpgradeLog*.XML
+_upgradeLogs/
+_DNNUpgrade/
+
+# Azure Web Apps
+.aptcache/
+.logs/
+*.tfvars
+
+# Rider files
+.idea/
+.idea_modules/
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+.idea_*
+*.sln.iml
+
